@@ -29,7 +29,7 @@ This project simulates the dynamics and control system of an **octocopter drone*
 - **Altitude, Roll, Pitch, and Yaw Plots**: Visualize the octocopter's stability and responsiveness.
 - **3D Maneuver Path**: The plot below shows the octocopter’s path in comparison with the commanded circular trajectory.
 
-![3D Path](./images/3d_maneuver.png)
+Screenshot 2024-10-25 134325.png
 
 ## Getting Started
 To run this project, you’ll need MATLAB and Simulink installed.
