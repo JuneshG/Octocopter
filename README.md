@@ -37,4 +37,4 @@ To run this project, you’ll need MATLAB and Simulink installed.
 ### Installation
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/octocopter_simulation.git
+   git clone https://github.com/JuneshG/Octocopter
